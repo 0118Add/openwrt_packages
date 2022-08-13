@@ -1,1 +1,1 @@
-# luci-app-v2ray-server
+# openwrt-package
